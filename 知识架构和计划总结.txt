@@ -1,0 +1,20 @@
+基础夯实：
+Java特种兵，java7特性，Java8特性,java编程思想，Java并发编程实践 ,java api,java 虚拟机实践，设计模式
+编程的优化：
+Java优化，Java重构，clean code
+核心输出：
+hbase,encache,es,redis,mysql，zookeeper
+上述是重点的拳头产品
+更加底层
+Linux，Unix，redis，nginx
+扩展性底层支撑
+tcp/ip http 算法
+其他一些架构
+spring kafka hadoop spark storm
+-------------------------------------
+1 阅读书籍，做笔记，整理，输出到blog
+2 模仿经典框架，写代码，练习写代码的感觉
+3 对源码做分析，了解架构思想，设计理念，输出blog
+4 输出山寨版的框架
+
+-------------------------------------
